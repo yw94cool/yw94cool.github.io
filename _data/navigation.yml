@@ -10,13 +10,13 @@ main:
     url: "/#-educations"
 
   - title: "Selected Publications"
-    url: "/#-publications"
+    url: "/#-selected-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Funded Project"
-    url: "/#-funded-project"
+  - title: "Funded Projects"
+    url: "/#-funded-projects"
 
   - title: "Open Positions"
     url: "/#-open-positions"
