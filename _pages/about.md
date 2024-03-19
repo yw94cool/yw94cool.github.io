@@ -105,10 +105,12 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 - *2014.10* MEXT Scholarship (Master), The University of Tokyo. Tokyo, Japan.
 - *2012.06* Outstanding Graduate Award of Hubei Province, Wuhan, China.
 
+
 # 💰 Funded Projects
 - *2024.04*, Enabling Human-Centered Digital Twin for Community Resilience, Japan Science and Technology Agency. (CI)
 - *2023.04*, Multi-task learning based post-disaster mapping via multi-modal remote sensing observations, Japan Society for Promotion of Science. <span style="color:red">(PI)</span>
 - *2019.04*, A study of satellite-based mapping of real estate price and its applications, Japan Society for Promotion of Science. (CI)
+
 
 # 🎓 Opportunities
 - 2 Ph.D. positions at Tohoku University research on AI for earth observation data analysis. (Start from Oct.2024)
