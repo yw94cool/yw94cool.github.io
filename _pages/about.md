@@ -17,18 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I work at IRIDeS, Tohoku University <img src='./images/Toh_E_M_N.gif' style='width: 6em;'> as an Associate Professor now in Sendai, Japan.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include Photogrammetry & Remote Sensing and its applications to urban monitoring and disaster science. I have published 30+ papers <a href='https://scholar.google.com/citations?user=lnLxZ74AAAAJ&hl=zh-CN'> at top international PE&RS conferences and journals such as ISPRS Journal of P&RS, IEEE TGRS, IEEE J-STARS and RS.
+
+I welcome highly motivated Master/Ph.D. students interested in deep learning for Photogrammetry and remote sensing to work with me. If you are interested, please feel free to contact me at [wei.yuan@tohoku.ac.jp](mailto:wei.yuan@tohoku.ac.jp). 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02*: &nbsp;🎉🎉 One paper is accepted by _ISPRS journal of P&RS_.
+- *2024.02*: I join IRIDeS, Tohoku University <img src='./images/Toh_E_M_N.gif' style='width: 6em;'> as an Associate Professor in Sendai, Japan!
+- *2023.09*: &nbsp;🎉🎉 One paper is accepted by _IEEE J-STARS_.
+- *2023.08*: &nbsp;🎉🎉 One paper is accepted by _IEEE TITS_.
+- *2023.04*: &nbsp;🎉🎉 One paper is accepted by _Geo-spatial Information Science_.
+- *2023.04*: &nbsp;🎉🎉 One paper is accepted by _P&RS workshop at CVPR2023_.
+- *2023.02*: &nbsp;🎉🎉 Two Papers are accepted by _IGARSS2023_ one oral and one poster.
+- *2023.02*: &nbsp;🎉🎉 One Paper is accepted by _Remote Sensing_.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS Journal of P&RS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
