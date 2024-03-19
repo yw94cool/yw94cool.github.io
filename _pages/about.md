@@ -74,7 +74,7 @@ Xiuxiao Yuan, Shiyu Chen, <u>**Wei Yuan***</u>, Yang Cai
    
 ## 🔎 Urban Object Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-STARS</div><img src='images/scene_understanding.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-STARS</div><img src='images/scene_understand.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-Constraint Transformer based Automatic Building Extraction from High Resolution Remote Sensing Images](http://10.1109/JSTARS.2023.3319826) \\
