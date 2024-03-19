@@ -19,7 +19,7 @@ redirect_from:
 
 I work at IRIDeS, Tohoku University <img src='./images/Toh_E_M_N.gif' style='width: 6em;'> as an Associate Professor now in Sendai, Japan.
 
-My research interests include Photogrammetry & Remote Sensing and its applications to urban monitoring and disaster science. I have published 30+ papers at top international P&RS conferences and journals such as ISPRS Journal of P&RS, IEEE TGRS, IEEE J-STARS and RS.
+My research interests include Photogrammetry & Remote Sensing and its applications to urban monitoring and disaster science. I have published [30+ papers] (https://scholar.google.com/citations?user=lnLxZ74AAAAJ&hl=zh-CN) at top international P&RS conferences and journals such as ISPRS Journal of P&RS, IEEE TGRS, IEEE J-STARS and RS.
 
 I welcome highly motivated Master/Ph.D. students interested in deep learning for Photogrammetry and remote sensing to work with me. If you are interested, please feel free to contact me at [wei.yuan@tohoku.ac.jp](mailto:wei.yuan@tohoku.ac.jp). 
 
