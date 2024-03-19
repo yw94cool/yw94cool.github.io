@@ -39,7 +39,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 - *2015.10 - 2018.09*, Ph.D., _Civil Engineering_, The University of Tokyo. 
 - *2014.10 - 2015.09*, Master, _Civil Engineering_, The University of Tokyo. 
 
-<span class='anchor' id='publications'></span>
+<span class='anchor' id='selected-publications'></span>
 # 📝 Selected Publications 
 ## 📷 Dense Image Matching
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing</div><img src='images/dense_matching.png' alt="sym" width="100%"></div></div>
