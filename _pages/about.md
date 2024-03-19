@@ -51,11 +51,11 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 </div>
 </div>
 
-- ``Geo-spatial Information Science`` [Fully automatic DOM generation method based on optical flow field dense image matching](https://doi.org/10.1080/10095020.2022.2159886), **Wei Yuan**, Xiuxiao Yuan, Yang Cai, Ryosuke Shibasaki.
-- ``P&CV2023`` [Few-Shot Depth Completion Using Denoising Diffusion Probabilistic Model](https://doi.org/10.5194/isprs-archives-XLIII-B2-2020-163-2020), Weihang Ran, **Wei Yuan***, Ryosuke Shibasaki.
-- ``ISPRS2020`` [Unsupervised Multi-Constraint Deep Neural Network for Dense Image Matching](https://doi.org/10.5194/isprs-archives-XLIII-B2-2020-163-2020), **Wei Yuan**, Zipei Fan, Xiuxiao Yuan, Jianya Gong, Ryosuke Shibasaki.
-- ``AGCS`` [Research developments and prospects on dense image matching in photogrammetry](https:10.11947/j.AGCS.2019.20190453), Xiuxiao Yuan, **Wei Yuan**, Shu Xu, Yanhua Ji.
-- ``ISPRS2016`` [An aerial-image dense matching approach based on optical flow field](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20180154), Xiuxiao Yuan, **Wei Yuan**, Shiyu Chen.
+- ``GIS`` [Fully automatic DOM generation method based on optical flow field dense image matching](https://doi.org/10.1080/10095020.2022.2159886), <u>**Wei Yuan**</u>, Xiuxiao Yuan, Yang Cai, Ryosuke Shibasaki.
+- ``P&CV2023`` [Few-Shot Depth Completion Using Denoising Diffusion Probabilistic Model](https://doi.org/10.5194/isprs-archives-XLIII-B2-2020-163-2020), Weihang Ran, <u>**Wei Yuan***</u>, Ryosuke Shibasaki.
+- ``ISPRS2020`` [Unsupervised Multi-Constraint Deep Neural Network for Dense Image Matching](https://doi.org/10.5194/isprs-archives-XLIII-B2-2020-163-2020), <u>**Wei Yuan**</u>, Zipei Fan, Xiuxiao Yuan, Jianya Gong, Ryosuke Shibasaki.
+- ``AGCS`` [Research developments and prospects on dense image matching in photogrammetry](https:10.11947/j.AGCS.2019.20190453), Xiuxiao Yuan, <u>**Wei Yuan**</u>, Shu Xu, Yanhua Ji.
+- ``ISPRS2016`` [An aerial-image dense matching approach based on optical flow field](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20180154), Xiuxiao Yuan, <u>**Wei Yuan**</u>, Shiyu Chen.
 
 
 ## 📐 Tie Point Matching
@@ -63,14 +63,14 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 <div class='paper-box-text' markdown="1">
 
 [Poor textural image tie point matching via graph theory](https://doi.org/10.1016/j.isprsjprs.2017.04.015) \\
-Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
+Xiuxiao Yuan, Shiyu Chen, <u>**Wei Yuan***</u>, Yang Cai
 
 </div>
 </div>
 
-- ``ISPRS P&RS`` [A cluster-based disambiguation method using pose consistency verification for structure from motion](https://doi.org/10.1016/j.isprsjprs.2024.02.016), Ye Gong, Pengwei Zhou, Changfeng Liu, Yan Yu, Jian Yao, **Wei Yuan**, Li Li.
-- ``G&IS of WU`` [An automatic detection method of mismatching points in remote sensing images based on graph theory](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20180154), Xiuxiao Yuan, **Wei Yuan**, Shiyu Chen.
-- ``RS`` [Matching multi-sensor remote sensing images via an affinity tensor](https://doi.org/10.3390/rs10071104), Shiyu Chen, Xiuxiao Yuan, **Wei Yuan***,et al.
+- ``ISPRS P&RS`` [A cluster-based disambiguation method using pose consistency verification for structure from motion](https://doi.org/10.1016/j.isprsjprs.2024.02.016), Ye Gong, Pengwei Zhou, Changfeng Liu, Yan Yu, Jian Yao, <u>**Wei Yuan**</u>, Li Li.
+- ``G&IS of WU`` [An automatic detection method of mismatching points in remote sensing images based on graph theory](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20180154), Xiuxiao Yuan, <u>**Wei Yuan**</u>, Shiyu Chen.
+- ``RS`` [Matching multi-sensor remote sensing images via an affinity tensor](https://doi.org/10.3390/rs10071104), Shiyu Chen, Xiuxiao Yuan, <u>**Wei Yuan***</u>,et al.
    
 ## 🔎 Urban Object Detection
 
@@ -83,13 +83,20 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 </div>
 </div>
 
-- ``IGARSS2023`` [Graph Encoding based Hybrid Vision Transformer for Automatic Road Network Extraction](http://10.1109/IGARSS52108.2023.10283247), **Wei Yuan**, Weihang Ran, Xiaodan Shi, Zipei Fan, Yang Cai, Ryosuke Shibasaki. <span style="color:red">(Oral)</span>
+- ``IGARSS2023`` [Graph Encoding based Hybrid Vision Transformer for Automatic Road Network Extraction](http://10.1109/IGARSS52108.2023.10283247), <u>**Wei Yuan**</u>, Weihang Ran, Xiaodan Shi, Zipei Fan, Yang Cai, Ryosuke Shibasaki. <span style="color:red">(Oral)</span>
+- ``IGARSS2023`` [Hybrid Feature Embedding for Automatic Building Outline Extraction](https://10.1109/IGARSS52108.2023.10282867), Weihang Ran, <u>**Wei Yuan***</u>, Xiaodan Shi, Zipei Fan, Ryosuke Shibasaki.
+- ``IGARSS2022`` [Cross-Scale Attention-based Tree Crown Detection via UAV imagery](https://10.1109/IGARSS46834.2022.9884316), <u>**Wei Yuan**</u>, Xiaodan Shi, Zhiling Guo, Zipei Fan, Jianya Gong, Ryosuke Shibasaki. <span style="color:red">(Oral)</span>
+- ``ISPRS2021`` [Graph neural network based multi-feature fusion for building change detection](https://doi.org/10.5194/isprs-archives-XLIII-B3-2021-377-2021), <u>**Wei Yuan**</u>, Xiuxiao Yuan, Zipei Fan, Zhiling Guo, Xiaodan Shi, Jianya Gong, Ryosuke Shibasaki. <span style="color:red">(Oral)</span>
+- ``RS`` [Automatic building segmentation of aerial imagery using multi-constraint fully convolutional networks](https://doi.org/10.3390/rs10030407), Guangming Wu, Xiaowei Shao, Zhiling Guo, Qi Chen, <u>**Wei Yuan**</u>, Xiaodan Shi, Yongwei Xu, Ryosuke Shibasaki.
 
 
 ## 📊 Others
 
-- ``G&IS of WU`` [An automatic detection method of mismatching points in remote sensing images based on graph theory](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20180154), Xiuxiao Yuan, **Wei Yuan**, Shiyu Chen.
-
+- ``IEEE TITS`` [MetaTraj: meta-learning for cross-scene cross-object trajectory prediction](http://10.1109/TITS.2023.3299112), Xiaodan Shi, Haoran Zhang, <u>**Wei Yuan**</u>, Ryosuke Shibasaki.
+- ``RS`` [Voronoi centerline-based seamline network generation method](https://doi.org/10.3390/rs15040917), Xiuxiao Yuan, Yang Cai, <u>**Wei Yuan**</u>.
+- ``SIGSPATIAL'22`` [Online trajectory prediction for metropolitan scale mobility digital twin](https://doi.org/10.1145/3557915.3561040), Zipei Fan, Xiaojie Yang, <u>**Wei Yuan**</u>, Renhe Jiang, Quanjun Chen, Xuan Song, Ryosuke Shibasaki.
+- ``ISPRS2022`` [Learning Social Compliant Multi-Modal Distributions of Human Path in Crowds](https://doi.org/10.5194/isprs-annals-V-4-2022-91-2022), Xiaodan Shi, Haoran Zhang, <u>**Wei Yuan**</u>, Dou Huang, Zhiling Guo, Ryosuke Shibasaki.  <span style="color:red">(Best Young Author Paper Award)</span>
+- ``RS`` [Optimal seamline detection for orthoimage mosaicking by combining deep convolutional neural network and graph cuts](https://doi.org/10.3390/rs9070701), Li Li, Jian Yao, Yahui Liu, <u>**Wei Yuan**</u>, Shuzhu Shi, Shenggu Yuan.
 
 
 # 🎖 Honors and Awards
@@ -98,9 +105,10 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 - *2014.10* MEXT Scholarship (Master), The University of Tokyo. Tokyo, Japan.
 - *2012.06* Outstanding Graduate Award of Hubei Province, Wuhan, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💰 Funded Projects
+- *2024.04*, Enabling Human-Centered Digital Twin for Community Resilience, Japan Science and Technology Agency. (CI)
+- *2023.04*, Multi-task learning based post-disaster mapping via multi-modal remote sensing observations, Japan Society for Promotion of Science. <span style="color:red">(PI)</span>
+- *2019.04*, A study of satellite-based mapping of real estate price and its applications, Japan Society for Promotion of Science. (CI)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎓 Opportunities
+- 2 Ph.D. positions at Tohoku University for Deep Learning based earth observation data analysis. (Start from Oct.2024)
