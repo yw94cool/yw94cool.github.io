@@ -51,7 +51,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 </div>
 </div>
 
-- ``GIS`` [Fully automatic DOM generation method based on optical flow field dense image matching](https://doi.org/10.1080/10095020.2022.2159886), <u>**Wei Yuan**</u>, Xiuxiao Yuan, Yang Cai, Ryosuke Shibasaki.
+- ``GIS`` [Fully automatic DOM generation method based on optical flow field dense image matching](https://doi.org/10.1080/10095020.2022.2159886), **<u>Wei Yuan</u>**, Xiuxiao Yuan, Yang Cai, Ryosuke Shibasaki.
 - ``P&CV2023`` [Few-Shot Depth Completion Using Denoising Diffusion Probabilistic Model](https://doi.org/10.5194/isprs-archives-XLIII-B2-2020-163-2020), Weihang Ran, <u>**Wei Yuan***</u>, Ryosuke Shibasaki.
 - ``ISPRS2020`` [Unsupervised Multi-Constraint Deep Neural Network for Dense Image Matching](https://doi.org/10.5194/isprs-archives-XLIII-B2-2020-163-2020), <u>**Wei Yuan**</u>, Zipei Fan, Xiuxiao Yuan, Jianya Gong, Ryosuke Shibasaki.
 - ``AGCS`` [Research developments and prospects on dense image matching in photogrammetry](https:10.11947/j.AGCS.2019.20190453), Xiuxiao Yuan, <u>**Wei Yuan**</u>, Shu Xu, Yanhua Ji.
