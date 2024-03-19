@@ -112,5 +112,5 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 - *2019.04*, A study of satellite-based mapping of real estate price and its applications, Japan Society for Promotion of Science. (CI)
 
 
-# 🎓 Opportunities
+# 🎓 Open Positions
 - 2 Ph.D. positions at Tohoku University research on AI for earth observation data analysis. (Start from Oct.2024)
