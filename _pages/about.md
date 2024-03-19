@@ -39,7 +39,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 - *2015.10 - 2018.09*, Ph.D., _Civil Engineering_, The University of Tokyo. 
 - *2014.10 - 2015.09*, Master, _Civil Engineering_, The University of Tokyo. 
 
-
+<span class='anchor' id='publications'></span>
 # 📝 Selected Publications 
 ## 📷 Dense Image Matching
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing</div><img src='images/dense_matching.png' alt="sym" width="100%"></div></div>
@@ -98,19 +98,19 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 - ``ISPRS2022`` [Learning Social Compliant Multi-Modal Distributions of Human Path in Crowds](https://doi.org/10.5194/isprs-annals-V-4-2022-91-2022), Xiaodan Shi, Haoran Zhang, **Wei Yuan**, Dou Huang, Zhiling Guo, Ryosuke Shibasaki.  <span style="color:red">(Best Young Author Paper Award)</span>
 - ``RS`` [Optimal seamline detection for orthoimage mosaicking by combining deep convolutional neural network and graph cuts](https://doi.org/10.3390/rs9070701), Li Li, Jian Yao, Yahui Liu, **Wei Yuan**, Shuzhu Shi, Shenggu Yuan.
 
-
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2022.07* Best Young Author paper award (co-authured), _ISPRS2022_, Nice, France. 
 - *2015.10* MEXT Scholarship (Ph.D.), The University of Tokyo. Tokyo, Japan.
 - *2014.10* MEXT Scholarship (Master), The University of Tokyo. Tokyo, Japan.
 - *2012.06* Outstanding Graduate Award of Hubei Province, Wuhan, China.
 
-
+<span class='anchor' id='funded-projects'></span>
 # 💰 Funded Projects
 - *2024.04*, Enabling Human-Centered Digital Twin for Community Resilience, Japan Science and Technology Agency. (CI)
 - *2023.04*, Multi-task learning based post-disaster mapping via multi-modal remote sensing observations, Japan Society for Promotion of Science. <span style="color:red">(PI)</span>
 - *2019.04*, A study of satellite-based mapping of real estate price and its applications, Japan Society for Promotion of Science. (CI)
 
-
+<span class='anchor' id='open-positions'></span>
 # 🎓 Open Positions
 - 2 Ph.D. positions at Tohoku University research on AI for earth observation data analysis. (Start from Oct.2024)
