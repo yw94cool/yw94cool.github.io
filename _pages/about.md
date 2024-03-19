@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at IRIDeS, Tohoku University <img src='./images/Toh_E_M_N.gif' style='width: 3em;'> as an Associate Professor now in Sendai, Japan.
+I work at IRIDeS, Tohoku University <img src='./images/Toh_E_M_N.gif' style='width: 2em;'> as an Associate Professor now in Sendai, Japan.
 
 My research interests include Photogrammetry & Remote Sensing and its applications to urban monitoring and disaster science. I have published [30+ papers](https://scholar.google.com/citations?user=lnLxZ74AAAAJ&hl=zh-CN) at top international P&RS conferences and journals such as ISPRS Journal of P&RS, IEEE TGRS, IEEE J-STARS and RS.
 
@@ -26,7 +26,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by _ISPRS journal of P&RS_.
-- *2024.02*: &nbsp; I join IRIDeS, Tohoku University <img src='./images/Toh_E_M_N.gif' style='width: 6em;'> as an Associate Professor in Sendai, Japan!
+- *2024.02*: &nbsp; I join IRIDeS, Tohoku University <img src='./images/Toh_E_M_N.gif' style='width: 2em;'> as an Associate Professor in Sendai, Japan!
 - *2023.09*: &nbsp;🎉🎉 One paper is accepted by _IEEE J-STARS_.
 - *2023.08*: &nbsp;🎉🎉 One paper is accepted by _IEEE TITS_.
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by _Geo-spatial Information Science_.
