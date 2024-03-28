@@ -77,22 +77,22 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-STARS</div><img src='images/scene_understand.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-Constraint Transformer based Automatic Building Extraction from High Resolution Remote Sensing Images](http://10.1109/JSTARS.2023.3319826) \\
+[Multi-Constraint Transformer based Automatic Building Extraction from High Resolution Remote Sensing Images]((https://doi.org/10.1109/JSTARS.2023.3319826) \\
 **Wei Yuan**, Weihang Ran, Xiaodan Shi, Ryosuke Shibasaki
 
 </div>
 </div>
 
-- ``IGARSS2023`` [Graph Encoding based Hybrid Vision Transformer for Automatic Road Network Extraction](http://10.1109/IGARSS52108.2023.10283247), **Wei Yuan**, Weihang Ran, Xiaodan Shi, Zipei Fan, Yang Cai, Ryosuke Shibasaki. <span style="color:red">(Oral)</span>
-- ``IGARSS2023`` [Hybrid Feature Embedding for Automatic Building Outline Extraction](https://10.1109/IGARSS52108.2023.10282867), Weihang Ran, **Wei Yuan***, Xiaodan Shi, Zipei Fan, Ryosuke Shibasaki.
-- ``IGARSS2022`` [Cross-Scale Attention-based Tree Crown Detection via UAV imagery](https://10.1109/IGARSS46834.2022.9884316), **Wei Yuan**, Xiaodan Shi, Zhiling Guo, Zipei Fan, Jianya Gong, Ryosuke Shibasaki. <span style="color:red">(Oral)</span>
+- ``IGARSS2023`` [Graph Encoding based Hybrid Vision Transformer for Automatic Road Network Extraction](http://doi.org/10.1109/IGARSS52108.2023.10283247), **Wei Yuan**, Weihang Ran, Xiaodan Shi, Zipei Fan, Yang Cai, Ryosuke Shibasaki. <span style="color:red">(Oral)</span>
+- ``IGARSS2023`` [Hybrid Feature Embedding for Automatic Building Outline Extraction](https://doi.org/10.1109/IGARSS52108.2023.10282867), Weihang Ran, **Wei Yuan***, Xiaodan Shi, Zipei Fan, Ryosuke Shibasaki.
+- ``IGARSS2022`` [Cross-Scale Attention-based Tree Crown Detection via UAV imagery](https://doi.org/10.1109/IGARSS46834.2022.9884316), **Wei Yuan**, Xiaodan Shi, Zhiling Guo, Zipei Fan, Jianya Gong, Ryosuke Shibasaki. <span style="color:red">(Oral)</span>
 - ``ISPRS2021`` [Graph neural network based multi-feature fusion for building change detection](https://doi.org/10.5194/isprs-archives-XLIII-B3-2021-377-2021), **Wei Yuan**, Xiuxiao Yuan, Zipei Fan, Zhiling Guo, Xiaodan Shi, Jianya Gong, Ryosuke Shibasaki. <span style="color:red">(Oral)</span>
 - ``RS`` [Automatic building segmentation of aerial imagery using multi-constraint fully convolutional networks](https://doi.org/10.3390/rs10030407), Guangming Wu, Xiaowei Shao, Zhiling Guo, Qi Chen, **Wei Yuan**, Xiaodan Shi, Yongwei Xu, Ryosuke Shibasaki.
 
 
 ## 📊 Others
 
-- ``IEEE TITS`` [MetaTraj: meta-learning for cross-scene cross-object trajectory prediction](http://10.1109/TITS.2023.3299112), Xiaodan Shi, Haoran Zhang, **Wei Yuan**, Ryosuke Shibasaki.
+- ``IEEE TITS`` [MetaTraj: meta-learning for cross-scene cross-object trajectory prediction](http://doi.org/10.1109/TITS.2023.3299112), Xiaodan Shi, Haoran Zhang, **Wei Yuan**, Ryosuke Shibasaki.
 - ``RS`` [Voronoi centerline-based seamline network generation method](https://doi.org/10.3390/rs15040917), Xiuxiao Yuan, Yang Cai, **Wei Yuan**.
 - ``SIGSPATIAL'22`` [Online trajectory prediction for metropolitan scale mobility digital twin](https://doi.org/10.1145/3557915.3561040), Zipei Fan, Xiaojie Yang, **Wei Yuan**, Renhe Jiang, Quanjun Chen, Xuan Song, Ryosuke Shibasaki.
 - ``ISPRS2022`` [Learning Social Compliant Multi-Modal Distributions of Human Path in Crowds](https://doi.org/10.5194/isprs-annals-V-4-2022-91-2022), Xiaodan Shi, Haoran Zhang, **Wei Yuan**, Dou Huang, Zhiling Guo, Ryosuke Shibasaki.  <span style="color:red">(Best Young Author Paper Award)</span>
