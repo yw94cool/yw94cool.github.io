@@ -77,7 +77,7 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-STARS</div><img src='images/scene_understand.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-Constraint Transformer based Automatic Building Extraction from High Resolution Remote Sensing Images]((https://doi.org/10.1109/JSTARS.2023.3319826) \\
+[Multi-Constraint Transformer based Automatic Building Extraction from High Resolution Remote Sensing Images](https://doi.org/10.1109/JSTARS.2023.3319826) \\
 **Wei Yuan**, Weihang Ran, Xiaodan Shi, Ryosuke Shibasaki
 
 </div>
