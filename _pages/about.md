@@ -51,11 +51,11 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 </div>
 </div>
 
-- ``GIS`` [Fully automatic DOM generation method based on optical flow field dense image matching](https://doi.org/10.1080/10095020.2022.2159886), **Wei Yuan**, Xiuxiao Yuan, Yang Cai, Ryosuke Shibasaki.
-- ``P&CV2023`` [Few-Shot Depth Completion Using Denoising Diffusion Probabilistic Model](https://doi.org/10.5194/isprs-archives-XLIII-B2-2020-163-2020), Weihang Ran, **Wei Yuan***, Ryosuke Shibasaki.
+- ``GSIS`` [Fully automatic DOM generation method based on optical flow field dense image matching](https://doi.org/10.1080/10095020.2022.2159886), **Wei Yuan**, Xiuxiao Yuan, Yang Cai, Ryosuke Shibasaki.
+- ``CVPR2023`` [Few-Shot Depth Completion Using Denoising Diffusion Probabilistic Model](https://doi.org/10.5194/isprs-archives-XLIII-B2-2020-163-2020), Weihang Ran, **Wei Yuan***, Ryosuke Shibasaki.
 - ``ISPRS2020`` [Unsupervised Multi-Constraint Deep Neural Network for Dense Image Matching](https://doi.org/10.5194/isprs-archives-XLIII-B2-2020-163-2020), **Wei Yuan**, Zipei Fan, Xiuxiao Yuan, Jianya Gong, Ryosuke Shibasaki.
 - ``AGCS`` [Research developments and prospects on dense image matching in photogrammetry](https:10.11947/j.AGCS.2019.20190453), Xiuxiao Yuan, **Wei Yuan**, Shu Xu, Yanhua Ji.
-- ``ISPRS2016`` [An aerial-image dense matching approach based on optical flow field](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20180154), Xiuxiao Yuan, **Wei Yuan**, Shiyu Chen.
+- ``ISPRS2016`` [An aerial-image dense matching approach based on optical flow field](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20180154), **Wei Yuan**, Shiyu Chen, Yong Zhang, Jianya Gong, Ryosuke Shibasaki.
 
 
 ## 📐 Tie Point Matching
@@ -68,8 +68,8 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 </div>
 </div>
 
-- ``ISPRS P&RS`` [A cluster-based disambiguation method using pose consistency verification for structure from motion](https://doi.org/10.1016/j.isprsjprs.2024.02.016), Ye Gong, Pengwei Zhou, Changfeng Liu, Yan Yu, Jian Yao, **Wei Yuan**, Li Li.
-- ``G&IS of WU`` [An automatic detection method of mismatching points in remote sensing images based on graph theory](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20180154), Xiuxiao Yuan, **Wei Yuan**, Shiyu Chen.
+- ``ISPRS J P&RS`` [A cluster-based disambiguation method using pose consistency verification for structure from motion](https://doi.org/10.1016/j.isprsjprs.2024.02.016), Ye Gong, Pengwei Zhou, Changfeng Liu, Yan Yu, Jian Yao, **Wei Yuan**, Li Li.
+- ``GIS of WU`` [An automatic detection method of mismatching points in remote sensing images based on graph theory](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20180154), Xiuxiao Yuan, **Wei Yuan***, Shiyu Chen.
 - ``RS`` [Matching multi-sensor remote sensing images via an affinity tensor](https://doi.org/10.3390/rs10071104), Shiyu Chen, Xiuxiao Yuan, **Wei Yuan***,et al.
    
 ## 🔎 Urban Object Detection
