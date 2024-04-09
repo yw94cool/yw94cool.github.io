@@ -19,9 +19,9 @@ redirect_from:
 
 I work at IRIDeS, Tohoku University <img src='./images/Toh_E_M_N.gif' style='width: 2em;'> as an Associate Professor now in Sendai, Japan.
 
-My research interests include Photogrammetry & Remote Sensing and its applications to urban monitoring and disaster science. I have published [30+ papers](https://scholar.google.com/citations?user=lnLxZ74AAAAJ&hl=zh-CN) at top international P&RS conferences and journals such as ISPRS Journal of P&RS, IEEE TGRS, IEEE J-STARS and RS.
+My research interests include Photogrammetry & Remote Sensing and its applications to urban monitoring and disaster science. I have published [40+ papers](https://scholar.google.com/citations?user=lnLxZ74AAAAJ&hl=zh-CN) at top international P&RS conferences and journals such as ISPRS Journal of P&RS, IEEE TGRS, IEEE J-STARS, GSIS and RS.
 
-I welcome highly motivated Master/Ph.D. students interested in deep learning for Photogrammetry and remote sensing to work with me. If you are interested, please feel free to contact me at [wei.yuan@tohoku.ac.jp](mailto:wei.yuan@tohoku.ac.jp). 
+I welcome highly motivated Master/Ph.D. students interested in deep learning for photogrammetry and remote sensing to work with me. If you are interested, please feel free to contact me at [wei.yuan@tohoku.ac.jp](mailto:wei.yuan@tohoku.ac.jp). 
 
 
 # 🔥 News
@@ -109,6 +109,7 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 # 💰 Funded Projects
 - *2024.04*, Enabling Human-Centered Digital Twin for Community Resilience, Japan Science and Technology Agency. (CI)
 - *2023.04*, Multi-task learning based post-disaster mapping via multi-modal remote sensing observations, Japan Society for Promotion of Science. <span style="color:red">(PI)</span>
+- *2022.04*, Heterogeneous Graph Neural Network based Federated Mobile Crowdsensing, Japan Society for Promotion of Science. (CI)
 - *2019.04*, A study of satellite-based mapping of real estate price and its applications, Japan Society for Promotion of Science. (CI)
 
 <span class='anchor' id='open-positions'></span>
