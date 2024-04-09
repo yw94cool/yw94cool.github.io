@@ -34,9 +34,9 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 - *2023.02*: &nbsp;🎉🎉 Two Papers are accepted by _IGARSS2023_ one oral and one poster.
 - *2023.02*: &nbsp;🎉🎉 One Paper is accepted by _Remote Sensing_.
 
-# 📖 Academic/Teaching Experience
+# 💻 Academic/Teaching Experience
 - *2024.02 - present*, Associate Professor, _International Research Institute of Disaster Science_, Tohoku University.
-- *2020.04 - 2024.01*, Project Assistant Professor., _Center for Spatial Information Science_, The University of Tokyo.  
+- *2020.04 - 2024.01*, Project Assistant Professor, _Center for Spatial Information Science_, The University of Tokyo.  
 - *2018.10 - 2020.03*, Project Researcher, _Center for Spatial Information Science_, The University of Tokyo. 
 
 # 📖 Educations
