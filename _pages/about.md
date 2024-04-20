@@ -25,6 +25,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉🎉 One paper is accepted by _IEEE TGRS_.
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by _ISPRS journal of P&RS_.
 - *2024.02*: &nbsp; I joined IRIDeS, Tohoku University <img src='./images/Toh_E_M_N.gif' style='width: 2em;'> as an Associate Professor in Sendai, Japan!
 - *2023.09*: &nbsp;🎉🎉 One paper is accepted by _IEEE J-STARS_.
