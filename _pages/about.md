@@ -59,7 +59,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 
 </div>
 </div>
-
+- ``TGRS`` [Hybrid network-based automatic seamline detection for orthophoto mosaicking](https://doi.org/10.1109/TGRS.2024.3393626), **Wei Yuan**, Yang Cai, Jonathan Li.
 - ``GSIS`` [Fully automatic DOM generation method based on optical flow field dense image matching](https://doi.org/10.1080/10095020.2022.2159886), **Wei Yuan**, Xiuxiao Yuan, Yang Cai, Ryosuke Shibasaki.
 - ``CVPR2023`` [Few-Shot Depth Completion Using Denoising Diffusion Probabilistic Model](https://doi.org/10.5194/isprs-archives-XLIII-B2-2020-163-2020), Weihang Ran, **Wei Yuan***, Ryosuke Shibasaki.
 - ``ISPRS2020`` [Unsupervised Multi-Constraint Deep Neural Network for Dense Image Matching](https://doi.org/10.5194/isprs-archives-XLIII-B2-2020-163-2020), **Wei Yuan**, Zipei Fan, Xiuxiao Yuan, Jianya Gong, Ryosuke Shibasaki.
