@@ -124,4 +124,4 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 <span class='anchor' id='open-positions'></span>
 # 🎓 Open Positions
 - 2 Fully funded Ph.D. positions at Tohoku University through [I-CEEC](https://iceec.civil.tohoku.ac.jp/admission/) research on AI for earth observation data analysis. (Start from Oct.2025)
-- Accept CSC Ph.D. students. For details, please contact at [wei.yuan@tohoku.ac.jp](mailto:wei.yuan@tohoku.ac.jp)
+- Accept CSC funded Ph.D. students. For details, please contact at [wei.yuan@tohoku.ac.jp](mailto:wei.yuan@tohoku.ac.jp)
