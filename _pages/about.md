@@ -25,7 +25,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 I will hold a session "Close-range Sensing of Environment" with Prof. Xinlian Liang at _IGARSS2024_ let's meet in Athens this July.
+- *2024.05*: &nbsp;🎉🎉 I will hold a session "Close-range Sensing of Environment" with Prof. Xinlian Liang at _IGARSS2024_ in Athens this July.
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by _ISPRS TC-IV Syposium_ as an oral presentation.
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by _iScience_.
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by _IEEE TGRS_.
