@@ -103,7 +103,7 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 
 ## 📊 Others
 
-- ``iScience`` [Nuclei-level Prior Knowledge Constrained Multiple Instance Learning for breast histopathology whole slide image classification](https://doi.org/10.1016/j.isci.2024.109826), Shunping Wang, **Wei Yuan**.
+- ``iScience`` [Nuclei-level Prior Knowledge Constrained Multiple Instance Learning for breast histopathology whole slide image classification](https://doi.org/10.1016/j.isci.2024.109826), Xunping Wang, **Wei Yuan***.
 - ``IEEE TITS`` [MetaTraj: meta-learning for cross-scene cross-object trajectory prediction](http://doi.org/10.1109/TITS.2023.3299112), Xiaodan Shi, Haoran Zhang, **Wei Yuan**, Ryosuke Shibasaki.
 - ``RS`` [Voronoi centerline-based seamline network generation method](https://doi.org/10.3390/rs15040917), Xiuxiao Yuan, Yang Cai, **Wei Yuan**.
 - ``SIGSPATIAL'22`` [Online trajectory prediction for metropolitan scale mobility digital twin](https://doi.org/10.1145/3557915.3561040), Zipei Fan, Xiaojie Yang, **Wei Yuan**, Renhe Jiang, Quanjun Chen, Xuan Song, Ryosuke Shibasaki.
