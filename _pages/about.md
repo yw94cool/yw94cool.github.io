@@ -94,7 +94,7 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 
 </div>
 </div>
-
+- ''AE'' [General generative AI-based image augmentation method for robust rooftop PV segmentation](https://doi.org/10.1016/j.apenergy.2024.123554), Hongjun Tan, Zhiling Guo, Zhengyuan Lin, Yuntian Chen, Dou Huang, **Wei Yuan**, Haoran Zhang, Jinyue Yan
 - ``IGARSS2023`` [Graph Encoding based Hybrid Vision Transformer for Automatic Road Network Extraction](http://doi.org/10.1109/IGARSS52108.2023.10283247), **Wei Yuan**, Weihang Ran, Xiaodan Shi, Zipei Fan, Yang Cai, Ryosuke Shibasaki. <span style="color:red">(Oral)</span>
 - ``IGARSS2023`` [Hybrid Feature Embedding for Automatic Building Outline Extraction](https://doi.org/10.1109/IGARSS52108.2023.10282867), Weihang Ran, **Wei Yuan***, Xiaodan Shi, Zipei Fan, Ryosuke Shibasaki.
 - ``IGARSS2022`` [Cross-Scale Attention-based Tree Crown Detection via UAV imagery](https://doi.org/10.1109/IGARSS46834.2022.9884316), **Wei Yuan**, Xiaodan Shi, Zhiling Guo, Zipei Fan, Jianya Gong, Ryosuke Shibasaki. <span style="color:red">(Oral)</span>
@@ -120,6 +120,9 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 
 <span class='anchor' id='funded-projects'></span>
 # 💰 Funded Projects
+- *2024.06*, Foundation modal based multi-modal data fusion for efficient disaster response, Co-Creation Project of IRIDeS. (PI)
+- *2024.06*, Resilience patterns of multiscale human mobility under extreme rainfall events using massive individual trajectory data, Co-Creation Project of IRIDeS. (CI)
+- *2024.06*, Incorporate the Mobility Dynamic into the Flood-affected Population Estimation. Co-Creation Project of IRIDeS. (CI)
 - *2024.04*, Enabling Human-Centered Digital Twin for Community Resilience, Japan Science and Technology Agency. (CI)
 - *2023.04*, Multi-task learning based post-disaster mapping via multi-modal remote sensing observations, Japan Society for Promotion of Science. <span style="color:red">(PI)</span>
 - *2022.04*, Heterogeneous Graph Neural Network based Federated Mobile Crowdsensing, Japan Society for Promotion of Science. (CI)
