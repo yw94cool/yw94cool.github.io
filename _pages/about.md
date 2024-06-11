@@ -120,7 +120,7 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 
 <span class='anchor' id='funded-projects'></span>
 # 💰 Funded Projects
-- *2024.06*, Foundation modal based multi-modal data fusion for efficient disaster response, Co-Creation Project of IRIDeS. (PI)
+- *2024.06*, Foundation modal based multi-modal data fusion for efficient disaster response, Co-Creation Project of IRIDeS. <span style="color:red">(PI)</span>
 - *2024.06*, Resilience patterns of multiscale human mobility under extreme rainfall events using massive individual trajectory data, Co-Creation Project of IRIDeS. (CI)
 - *2024.06*, Incorporate the Mobility Dynamic into the Flood-affected Population Estimation. Co-Creation Project of IRIDeS. (CI)
 - *2024.04*, Enabling Human-Centered Digital Twin for Community Resilience, Japan Science and Technology Agency. (CI)
