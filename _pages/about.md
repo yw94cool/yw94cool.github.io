@@ -85,14 +85,15 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 - ``RS`` [Matching multi-sensor remote sensing images via an affinity tensor](https://doi.org/10.3390/rs10071104), Shiyu Chen, Xiuxiao Yuan, **Wei Yuan***,et al.
 
 ## 📌 Ortho Photo Mosaicking
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS</div><img src='images/ortho_mosacking.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS</div><img src='images/ortho_mosaicking.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hybrid network-based automatic seamline detection for orthophoto mosaicking](https://doi.org/10.1109/TGRS.2024.3393626)\\
+[Hybrid network-based automatic seamline detection for orthophoto mosaicking](https://doi.org/10.1109/TGRS.2024.3393626) \\
 **Wei Yuan**, Yang Cai, Jonathan Li 
 
 </div>
 </div>
+
 - ``RS`` [Voronoi centerline-based seamline network generation method](https://doi.org/10.3390/rs15040917), Xiuxiao Yuan, Yang Cai, **Wei Yuan**.
 - ``RS`` [Optimal seamline detection for orthoimage mosaicking by combining deep convolutional neural network and graph cuts](https://doi.org/10.3390/rs9070701), Li Li, Jian Yao, Yahui Liu, **Wei Yuan**, Shuzhu Shi, Shenggu Yuan.
 
@@ -107,6 +108,7 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 
 </div>
 </div>
+
 - ``APEN`` [General generative AI-based image augmentation method for robust rooftop PV segmentation](https://doi.org/10.1016/j.apenergy.2024.123554), Hongjun Tan, Zhiling Guo, Zhengyuan Lin, Yuntian Chen, Dou Huang, **Wei Yuan**, Haoran Zhang, Jinyue Yan
 - ``IGARSS2023`` [Graph Encoding based Hybrid Vision Transformer for Automatic Road Network Extraction](http://doi.org/10.1109/IGARSS52108.2023.10283247), **Wei Yuan**, Weihang Ran, Xiaodan Shi, Zipei Fan, Yang Cai, Ryosuke Shibasaki. <span style="color:red">(Oral)</span>
 - ``IGARSS2023`` [Hybrid Feature Embedding for Automatic Building Outline Extraction](https://doi.org/10.1109/IGARSS52108.2023.10282867), Weihang Ran, **Wei Yuan***, Xiaodan Shi, Zipei Fan, Ryosuke Shibasaki.
