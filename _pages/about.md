@@ -119,7 +119,16 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 
 ## 📊 Others
 
-- ``iScience`` [Nuclei-level Prior Knowledge Constrained Multiple Instance Learning for breast histopathology whole slide image classification](https://doi.org/10.1016/j.isci.2024.109826), Xunping Wang, **Wei Yuan***.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience</div><img src='images/iScience.png' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Nuclei-level Prior Knowledge Constrained Multiple Instance Learning for breast histopathology whole slide image classification](https://doi.org/10.1016/j.isci.2024.109826)(https://doi.org/10.1109/JSTARS.2023.3319826) \\
+Xunping Wang, **Wei Yuan***.
+
+</div>
+</div>
+
+
 - ``IEEE TITS`` [MetaTraj: meta-learning for cross-scene cross-object trajectory prediction](http://doi.org/10.1109/TITS.2023.3299112), Xiaodan Shi, Haoran Zhang, **Wei Yuan**, Ryosuke Shibasaki.
 - ``SIGSPATIAL'22`` [Online trajectory prediction for metropolitan scale mobility digital twin](https://doi.org/10.1145/3557915.3561040), Zipei Fan, Xiaojie Yang, **Wei Yuan**, Renhe Jiang, Quanjun Chen, Xuan Song, Ryosuke Shibasaki.
 - ``ISPRS2022`` [Learning Social Compliant Multi-Modal Distributions of Human Path in Crowds](https://doi.org/10.5194/isprs-annals-V-4-2022-91-2022), Xiaodan Shi, Haoran Zhang, **Wei Yuan**, Dou Huang, Zhiling Guo, Ryosuke Shibasaki.  <span style="color:red">(Best Young Author Paper Award)</span>
