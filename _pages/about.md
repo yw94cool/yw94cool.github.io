@@ -62,7 +62,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 
 </div>
 </div>
-- ``TGRS`` [Hybrid network-based automatic seamline detection for orthophoto mosaicking](https://doi.org/10.1109/TGRS.2024.3393626), **Wei Yuan**, Yang Cai, Jonathan Li.
+
 - ``GSIS`` [Fully automatic DOM generation method based on optical flow field dense image matching](https://doi.org/10.1080/10095020.2022.2159886), **Wei Yuan**, Xiuxiao Yuan, Yang Cai, Ryosuke Shibasaki.
 - ``CVPR2023`` [Few-Shot Depth Completion Using Denoising Diffusion Probabilistic Model](https://doi.org/10.5194/isprs-archives-XLIII-B2-2020-163-2020), Weihang Ran, **Wei Yuan***, Ryosuke Shibasaki.
 - ``ISPRS2020`` [Unsupervised Multi-Constraint Deep Neural Network for Dense Image Matching](https://doi.org/10.5194/isprs-archives-XLIII-B2-2020-163-2020), **Wei Yuan**, Zipei Fan, Xiuxiao Yuan, Jianya Gong, Ryosuke Shibasaki.
@@ -83,7 +83,20 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 - ``ISPRS J P&RS`` [A cluster-based disambiguation method using pose consistency verification for structure from motion](https://doi.org/10.1016/j.isprsjprs.2024.02.016), Ye Gong, Pengwei Zhou, Changfeng Liu, Yan Yu, Jian Yao, **Wei Yuan**, Li Li.
 - ``GIS of WU`` [An automatic detection method of mismatching points in remote sensing images based on graph theory](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20180154), Xiuxiao Yuan, **Wei Yuan***, Shiyu Chen.
 - ``RS`` [Matching multi-sensor remote sensing images via an affinity tensor](https://doi.org/10.3390/rs10071104), Shiyu Chen, Xiuxiao Yuan, **Wei Yuan***,et al.
-   
+
+## 📌 Ortho Photo Mosaicking
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS</div><img src='images/ortho_mosacking.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hybrid network-based automatic seamline detection for orthophoto mosaicking](https://doi.org/10.1109/TGRS.2024.3393626)\\
+**Wei Yuan**, Yang Cai, Jonathan Li 
+
+</div>
+</div>
+- ``RS`` [Voronoi centerline-based seamline network generation method](https://doi.org/10.3390/rs15040917), Xiuxiao Yuan, Yang Cai, **Wei Yuan**.
+- ``RS`` [Optimal seamline detection for orthoimage mosaicking by combining deep convolutional neural network and graph cuts](https://doi.org/10.3390/rs9070701), Li Li, Jian Yao, Yahui Liu, **Wei Yuan**, Shuzhu Shi, Shenggu Yuan.
+
+
 ## 🔎 Urban Object Detection
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-STARS</div><img src='images/scene_understand.png' alt="sym" width="100%"></div></div>
@@ -106,10 +119,8 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 
 - ``iScience`` [Nuclei-level Prior Knowledge Constrained Multiple Instance Learning for breast histopathology whole slide image classification](https://doi.org/10.1016/j.isci.2024.109826), Xunping Wang, **Wei Yuan***.
 - ``IEEE TITS`` [MetaTraj: meta-learning for cross-scene cross-object trajectory prediction](http://doi.org/10.1109/TITS.2023.3299112), Xiaodan Shi, Haoran Zhang, **Wei Yuan**, Ryosuke Shibasaki.
-- ``RS`` [Voronoi centerline-based seamline network generation method](https://doi.org/10.3390/rs15040917), Xiuxiao Yuan, Yang Cai, **Wei Yuan**.
 - ``SIGSPATIAL'22`` [Online trajectory prediction for metropolitan scale mobility digital twin](https://doi.org/10.1145/3557915.3561040), Zipei Fan, Xiaojie Yang, **Wei Yuan**, Renhe Jiang, Quanjun Chen, Xuan Song, Ryosuke Shibasaki.
 - ``ISPRS2022`` [Learning Social Compliant Multi-Modal Distributions of Human Path in Crowds](https://doi.org/10.5194/isprs-annals-V-4-2022-91-2022), Xiaodan Shi, Haoran Zhang, **Wei Yuan**, Dou Huang, Zhiling Guo, Ryosuke Shibasaki.  <span style="color:red">(Best Young Author Paper Award)</span>
-- ``RS`` [Optimal seamline detection for orthoimage mosaicking by combining deep convolutional neural network and graph cuts](https://doi.org/10.3390/rs9070701), Li Li, Jian Yao, Yahui Liu, **Wei Yuan**, Shuzhu Shi, Shenggu Yuan.
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
