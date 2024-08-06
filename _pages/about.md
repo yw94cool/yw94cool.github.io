@@ -122,7 +122,7 @@ Xiuxiao Yuan, Shiyu Chen, **Wei Yuan***, Yang Cai
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">iScience</div><img src='images/iScience.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Nuclei-level Prior Knowledge Constrained Multiple Instance Learning for breast histopathology whole slide image classification](https://doi.org/10.1016/j.isci.2024.109826)(https://doi.org/10.1109/JSTARS.2023.3319826) \\
+[Nuclei-level Prior Knowledge Constrained Multiple Instance Learning for breast histopathology whole slide image classification](https://doi.org/10.1016/j.isci.2024.109826) \\
 Xunping Wang, **Wei Yuan***.
 
 </div>
