@@ -143,8 +143,8 @@ Xunping Wang, **Wei Yuan***.
 <span class='anchor' id='funded-projects'></span>
 # 💰 Funded Projects
 - *2024.06*, Foundation modal based multi-modal data fusion for efficient disaster response, Co-Creation Project of IRIDeS. <span style="color:red">(PI)</span>
-- *2024.06*, Resilience patterns of multiscale human mobility under extreme rainfall events using massive individual trajectory data, Co-Creation Project of IRIDeS. (CI)
-- *2024.06*, Incorporate the Mobility Dynamic into the Flood-affected Population Estimation. Co-Creation Project of IRIDeS. (CI)
+- *2024.06*, Resilience patterns of multiscale human mobility under extreme rainfall events using massive individual trajectory data, Co-Creation Project of IRIDeS. <span style="color:red">(PI)</span>
+- *2024.06*, Incorporate the Mobility Dynamic into the Flood-affected Population Estimation. Co-Creation Project of IRIDeS. <span style="color:red">(PI)</span>
 - *2024.04*, Enabling Human-Centered Digital Twin for Community Resilience, Japan Science and Technology Agency. (CI)
 - *2023.04*, Multi-task learning based post-disaster mapping via multi-modal remote sensing observations, Japan Society for Promotion of Science. <span style="color:red">(PI)</span>
 - *2022.04*, Heterogeneous Graph Neural Network based Federated Mobile Crowdsensing, Japan Society for Promotion of Science. (CI)
