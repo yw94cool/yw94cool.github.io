@@ -65,7 +65,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 </div>
 
 - ``GSIS`` [Fully automatic DOM generation method based on optical flow field dense image matching](https://doi.org/10.1080/10095020.2022.2159886), **Wei Yuan**, Xiuxiao Yuan, Yang Cai, Ryosuke Shibasaki.
-- ``ISPRS2024`` [The Performance of the Optical Flow Field based Dense Image Matching for UAV Imagery](https://doi.org/10.5194/isprs-annals-X-4-2024-433-2024), **Wei Yuan**, Weihang Ran, Bruno Adriano, Ryosuke Shibasaki, Shunichi Koshimura.
+- ``ISPRS2024`` [The Performance of the Optical Flow Field based Dense Image Matching for UAV Imagery](https://doi.org/10.5194/isprs-annals-X-4-2024-433-2024), **Wei Yuan**, Weihang Ran, Bruno Adriano, Ryosuke Shibasaki, Shunichi Koshimura.<span style="color:red">(Oral, Best Young Scientist Award)</span>
 - ``CVPR2023`` [Few-Shot Depth Completion Using Denoising Diffusion Probabilistic Model](https://doi.org/10.1109/CVPRW59228.2023.00697), Weihang Ran, **Wei Yuan***, Ryosuke Shibasaki.
 - ``ISPRS2020`` [Unsupervised Multi-Constraint Deep Neural Network for Dense Image Matching](https://doi.org/10.5194/isprs-archives-XLIII-B2-2020-163-2020), **Wei Yuan**, Zipei Fan, Xiuxiao Yuan, Jianya Gong, Ryosuke Shibasaki.
 - ``AGCS`` [Research developments and prospects on dense image matching in photogrammetry](https:10.11947/j.AGCS.2019.20190453), Xiuxiao Yuan, **Wei Yuan**, Shu Xu, Yanhua Ji.
