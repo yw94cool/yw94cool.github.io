@@ -25,7 +25,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 I will hold a session "Close-range Sensing of Environment"() with Prof. Xinlian Liang by _IGARSS2025_ in Brisbane next year.
+- *2024.11*: &nbsp;🎉🎉 I will hold a session "Close-range Sensing of Environment" with Prof. Xinlian Liang by _IGARSS2025_ in Brisbane next year.
 - *2024.10*: &nbsp;🎉🎉 Awarded as Best Young Researcher Award by _ISPRS Commission IV_ in Perth, Australia.
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by _Applied Energy_.
 - *2024.05*: &nbsp;🎉🎉 I will hold a session "Close-range Sensing of Environment" with Prof. Xinlian Liang at _IGARSS2024_ in Athens this July.
