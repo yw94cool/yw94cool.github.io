@@ -138,6 +138,7 @@ Xunping Wang, **Wei Yuan***.
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
+- *2024.10* Best Young Researcher Award by _ISPRS Commission IV_ Perth, Australia.
 - *2022.07* Best Young Author paper award (co-authured), _ISPRS2022_, Nice, France. 
 - *2015.10* MEXT Scholarship (Ph.D.), The University of Tokyo. Tokyo, Japan.
 - *2014.10* MEXT Scholarship (Master), The University of Tokyo. Tokyo, Japan.
