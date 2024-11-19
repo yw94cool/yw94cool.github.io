@@ -138,7 +138,7 @@ Xunping Wang, **Wei Yuan***.
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
-- *2024.10* Best Young Researcher Award by _ISPRS Commission IV_ Perth, Australia.
+- *2024.10* Best Young Researcher Award, _ISPRS Commission IV_, Perth, Australia.
 - *2022.07* Best Young Author paper award (co-authured), _ISPRS2022_, Nice, France. 
 - *2015.10* MEXT Scholarship (Ph.D.), The University of Tokyo. Tokyo, Japan.
 - *2014.10* MEXT Scholarship (Master), The University of Tokyo. Tokyo, Japan.
@@ -156,5 +156,5 @@ Xunping Wang, **Wei Yuan***.
 
 <span class='anchor' id='open-positions'></span>
 # 🎓 Open Positions
-- 2 Fully funded Ph.D. positions at Tohoku University through [I-CEEC](https://iceec.civil.tohoku.ac.jp/admission/) research on AI for earth observation data analysis. (Start from Oct.2025)
+- 1 Fully funded Ph.D. positions at Tohoku University through [I-CEEC](https://iceec.civil.tohoku.ac.jp/admission/) research on AI for earth observation data analysis. (Start from Oct.2025 DDL for application 28th, Nov)
 - Accept CSC funded Ph.D. students. For details, please contact at [wei.yuan@tohoku.ac.jp](mailto:wei.yuan@tohoku.ac.jp)
