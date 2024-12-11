@@ -156,5 +156,5 @@ Xunping Wang, **Wei Yuan***.
 
 <span class='anchor' id='open-positions'></span>
 # 🎓 Open Positions
-- 1 Fully funded Ph.D. positions at Tohoku University through [I-CEEC](https://iceec.civil.tohoku.ac.jp/admission/) research on AI for earth observation data analysis. (Start from Oct.2025 DDL for application 28th, Nov)
+- 1 Fully funded Ph.D. positions at Tohoku University through [I-CEEC](https://iceec.civil.tohoku.ac.jp/admission/) research on AI for earth observation data analysis. (Start from Oct.2026)
 - Accept CSC funded Ph.D. students. For details, please contact at [wei.yuan@tohoku.ac.jp](mailto:wei.yuan@tohoku.ac.jp)
