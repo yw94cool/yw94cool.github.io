@@ -25,7 +25,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 I will hold a session "Close-range Sensing of Environment" with Prof. Xinlian Liang by _IGARSS2025_ in Brisbane next year.
+- *2024.11*: &nbsp;🎉🎉 I will hold a session "Close-range Sensing of Environment" with Prof. Xinlian Liang at _IGARSS2025_ in Brisbane next year.
 - *2024.10*: &nbsp;🎉🎉 Awarded as Best Young Researcher Award by _ISPRS Commission IV_ in Perth, Australia.
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by _Applied Energy_.
 - *2024.05*: &nbsp;🎉🎉 I will hold a session "Close-range Sensing of Environment" with Prof. Xinlian Liang at _IGARSS2024_ in Athens this July.
@@ -146,7 +146,7 @@ Xunping Wang, **Wei Yuan***.
 
 <span class='anchor' id='funded-projects'></span>
 # 💰 Funded Projects
-- *2024.06 - 2025.06*, Foundation modal based multi-modal data fusion for efficient disaster response, Co-Creation Project of IRIDeS. <span style="color:red">(PI)</span>
+- *2024.06 - 2025.06*, Foundation model based multi-modal data fusion for efficient disaster response, Co-Creation Project of IRIDeS. <span style="color:red">(PI)</span>
 - *2024.06 - 2025.06*, Resilience patterns of multiscale human mobility under extreme rainfall events using massive individual trajectory data, Co-Creation Project of IRIDeS. <span style="color:red">(PI)</span>
 - *2024.06 - 2025.06*, Incorporate the Mobility Dynamic into the Flood-affected Population Estimation. Co-Creation Project of IRIDeS. <span style="color:red">(PI)</span>
 - *2024.04 - 2027.03*, Enabling Human-Centered Digital Twin for Community Resilience, Japan Science and Technology Agency. (CI)
