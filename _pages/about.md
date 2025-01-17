@@ -25,6 +25,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One Paper is accepted by _IEEE TKDE_.
 - *2024.11*: &nbsp;🎉🎉 I will hold a session "Close-range Sensing of Environment" with Prof. Xinlian Liang at _IGARSS2025_ in Brisbane next year.
 - *2024.10*: &nbsp;🎉🎉 Awarded as Best Young Researcher Award by _ISPRS Commission IV_ in Perth, Australia.
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by _Applied Energy_.
@@ -39,7 +40,6 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by _Geo-spatial Information Science_.
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by _P&RS workshop at CVPR2023_.
 - *2023.02*: &nbsp;🎉🎉 Two Papers are accepted by _IGARSS2023_ one oral and one poster.
-- *2023.02*: &nbsp;🎉🎉 One Paper is accepted by _Remote Sensing_.
 
 <span class='anchor' id='academic/teaching-experience'></span>
 
@@ -135,6 +135,7 @@ Xunping Wang, **Wei Yuan***.
 - ``IEEE TITS`` [MetaTraj: meta-learning for cross-scene cross-object trajectory prediction](http://doi.org/10.1109/TITS.2023.3299112), Xiaodan Shi, Haoran Zhang, **Wei Yuan**, Ryosuke Shibasaki.
 - ``SIGSPATIAL'22`` [Online trajectory prediction for metropolitan scale mobility digital twin](https://doi.org/10.1145/3557915.3561040), Zipei Fan, Xiaojie Yang, **Wei Yuan**, Renhe Jiang, Quanjun Chen, Xuan Song, Ryosuke Shibasaki.
 - ``ISPRS2022`` [Learning Social Compliant Multi-Modal Distributions of Human Path in Crowds](https://doi.org/10.5194/isprs-annals-V-4-2022-91-2022), Xiaodan Shi, Haoran Zhang, **Wei Yuan**, Dou Huang, Zhiling Guo, Ryosuke Shibasaki.  <span style="color:red">(Best Young Author Paper Award)</span>
+- ``IEEE TKDE`` [AISFuser: Encoding Maritime Graphical Representations with Temporal Attribute Modeling for Vessel Trajectory Prediction](http://doi.org/10.1109/TKDE.2025.3531770), Zhiwen Zhang, **Wei Yuan**, Zipei Fan, Xuan Song, Ryosuke Shibasaki.
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
