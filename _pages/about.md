@@ -25,6 +25,8 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 One Paper is accepted by _Geo-spatial Information Science_.
+- *2025.03*: &nbsp;🎉🎉 One Paper is accepted by _Journal of Rock Mechanics and Geotechnical Engineering_.
 - *2025.01*: &nbsp;🎉🎉 One Paper is accepted by _IEEE TKDE_.
 - *2024.11*: &nbsp;🎉🎉 I will hold a session "Close-range Sensing of Environment" with Prof. Xinlian Liang at _IGARSS2025_ in Brisbane next year.
 - *2024.10*: &nbsp;🎉🎉 Awarded as Best Young Researcher Award by _ISPRS Commission IV_ in Perth, Australia.
