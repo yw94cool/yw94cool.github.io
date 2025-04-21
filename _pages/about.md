@@ -138,6 +138,8 @@ Xunping Wang, **Wei Yuan***.
 - ``SIGSPATIAL'22`` [Online trajectory prediction for metropolitan scale mobility digital twin](https://doi.org/10.1145/3557915.3561040), Zipei Fan, Xiaojie Yang, **Wei Yuan**, Renhe Jiang, Quanjun Chen, Xuan Song, Ryosuke Shibasaki.
 - ``ISPRS2022`` [Learning Social Compliant Multi-Modal Distributions of Human Path in Crowds](https://doi.org/10.5194/isprs-annals-V-4-2022-91-2022), Xiaodan Shi, Haoran Zhang, **Wei Yuan**, Dou Huang, Zhiling Guo, Ryosuke Shibasaki.  <span style="color:red">(Best Young Author Paper Award)</span>
 - ``IEEE TKDE`` [AISFuser: Encoding Maritime Graphical Representations with Temporal Attribute Modeling for Vessel Trajectory Prediction](http://doi.org/10.1109/TKDE.2025.3531770), Zhiwen Zhang, **Wei Yuan**, Zipei Fan, Xuan Song, Ryosuke Shibasaki.
+- ``JRMGE`` [Intelligent characterization of discontinuities and heterogeneity evaluation of potential hazard sources in high-steep rock slope by TLS-UAV technology](https://doi.org/10.1016/j.jrmge.2025.03.023), Changqing Liu, 
+Han Bao, Tianyi Wang, Jingfeng Zhang, Hengxing Lan, Shengwen Qi, **Wei Yuan**, Shunichi Koshimura.
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
