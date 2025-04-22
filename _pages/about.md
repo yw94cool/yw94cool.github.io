@@ -152,6 +152,7 @@ Han Bao, Tianyi Wang, Jingfeng Zhang, Hengxing Lan, Shengwen Qi, **Wei Yuan**, S
 
 <span class='anchor' id='funded-projects'></span>
 # 💰 Funded Projects
+- *2025.04 - 2026.03*, Developing a Mobile Phone Network Data-Driven Methodology to Quantify Community Resilience in Disaster-Affected Areas, TU-UW matching fund (CI)
 - *2024.06 - 2025.06*, Foundation model based multi-modal data fusion for efficient disaster response, Co-Creation Project of IRIDeS. <span style="color:red">(PI)</span>
 - *2024.06 - 2025.06*, Resilience patterns of multiscale human mobility under extreme rainfall events using massive individual trajectory data, Co-Creation Project of IRIDeS. <span style="color:red">(PI)</span>
 - *2024.06 - 2025.06*, Incorporate the Mobility Dynamic into the Flood-affected Population Estimation. Co-Creation Project of IRIDeS. <span style="color:red">(PI)</span>
