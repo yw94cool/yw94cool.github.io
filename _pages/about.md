@@ -67,6 +67,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 </div>
 </div>
 
+- ``GSIS`` [An efficient cost calculation method for disparity estimation of stereo matching considering shadow occlusion](https://doi.org/10.1080/10095020.2025.2487138), Hongjun Sha, **Wei Yuan***, Xunping Wang, Xiuliu Yuan, Shunichi Koshimura
 - ``GSIS`` [Fully automatic DOM generation method based on optical flow field dense image matching](https://doi.org/10.1080/10095020.2022.2159886), **Wei Yuan**, Xiuxiao Yuan, Yang Cai, Ryosuke Shibasaki.
 - ``ISPRS2024`` [The Performance of the Optical Flow Field based Dense Image Matching for UAV Imagery](https://doi.org/10.5194/isprs-annals-X-4-2024-433-2024), **Wei Yuan**, Weihang Ran, Bruno Adriano, Ryosuke Shibasaki, Shunichi Koshimura.<span style="color:red">(Best Young Scientist Award)</span>
 - ``CVPR2023`` [Few-Shot Depth Completion Using Denoising Diffusion Probabilistic Model](https://doi.org/10.1109/CVPRW59228.2023.00697), Weihang Ran, **Wei Yuan***, Ryosuke Shibasaki.
