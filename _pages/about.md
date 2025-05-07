@@ -25,6 +25,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One Paper is accepted by _ICML2025_.
 - *2025.04*: &nbsp;🎉🎉 One Paper is accepted by _Geo-spatial Information Science_.
 - *2025.03*: &nbsp;🎉🎉 One Paper is accepted by _Journal of Rock Mechanics and Geotechnical Engineering_.
 - *2025.01*: &nbsp;🎉🎉 One Paper is accepted by _IEEE TKDE_.
