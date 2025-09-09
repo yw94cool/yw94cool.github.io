@@ -25,6 +25,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One Paper is accepted by _IEEE TMC_.
 - *2025.05*: &nbsp;🎉🎉 One Paper is accepted by _ICML2025_.
 - *2025.04*: &nbsp;🎉🎉 One Paper is accepted by _Geo-spatial Information Science_.
 - *2025.03*: &nbsp;🎉🎉 One Paper is accepted by _Journal of Rock Mechanics and Geotechnical Engineering_.
@@ -41,8 +42,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 - *2023.09*: &nbsp;🎉🎉 One paper is accepted by _IEEE J-STARS_.
 - *2023.08*: &nbsp;🎉🎉 One paper is accepted by _IEEE TITS_.
 - *2023.04*: &nbsp;🎉🎉 One paper is accepted by _Geo-spatial Information Science_.
-- *2023.04*: &nbsp;🎉🎉 One paper is accepted by _P&RS workshop at CVPR2023_.
-- *2023.02*: &nbsp;🎉🎉 Two Papers are accepted by _IGARSS2023_ one oral and one poster.
+
 
 <span class='anchor' id='academic/teaching-experience'></span>
 
