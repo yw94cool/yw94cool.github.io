@@ -25,6 +25,9 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 One Paper is accepted by _CVPR2026_.
+- *2025.12*: &nbsp;🎉🎉 I will co-organize a technical session "Image Segmentation" at _IGARSS2026_ in Washington next year.
+- *2025.12*: &nbsp;🎉🎉 One Paper is accepted by _Engineering Failure Analysis_.
 - *2025.09*: &nbsp;🎉🎉 One Paper is accepted by _IEEE TMC_.
 - *2025.05*: &nbsp;🎉🎉 One Paper is accepted by _ICML2025_.
 - *2025.04*: &nbsp;🎉🎉 One Paper is accepted by _Geo-spatial Information Science_.
@@ -34,7 +37,6 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 - *2024.10*: &nbsp;🎉🎉 Awarded as Best Young Researcher Award by _ISPRS Commission IV_ in Perth, Australia.
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by _Applied Energy_.
 - *2024.05*: &nbsp;🎉🎉 I will hold a session "Close-range Sensing of Environment" with Prof. Xinlian Liang at _IGARSS2024_ in Athens this July.
-- *2024.05*: &nbsp;🎉🎉 One paper is accepted by _ISPRS TC-IV Syposium_ as an oral presentation.
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by _iScience_.
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by _IEEE TGRS_.
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by _ISPRS journal of P&RS_.
