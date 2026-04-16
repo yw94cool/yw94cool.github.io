@@ -25,6 +25,9 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One Paper is accepted by _IEEE TITS_.
+- *2026.04*: &nbsp;🎉🎉 Our Paper is awareded by _2026 ISPRS WEC Kennert Torlegård Travel Grant_!
+- *2026.03*: &nbsp;🎉🎉 One Paper is accepted by _IEEE JSTARS_.
 - *2026.02*: &nbsp;🎉🎉 One Paper is accepted by _CVPR2026_.
 - *2025.12*: &nbsp;🎉🎉 I will co-organize a technical session "Image Segmentation" at _IGARSS2026_ in Washington next year.
 - *2025.12*: &nbsp;🎉🎉 One Paper is accepted by _Engineering Failure Analysis_.
@@ -41,9 +44,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by _IEEE TGRS_.
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by _ISPRS journal of P&RS_.
 - *2024.02*: &nbsp; I joined IRIDeS, Tohoku University <img src='./images/Toh_E_M_N.gif' style='width: 2em;'> as an Associate Professor in Sendai, Japan!
-- *2023.09*: &nbsp;🎉🎉 One paper is accepted by _IEEE J-STARS_.
-- *2023.08*: &nbsp;🎉🎉 One paper is accepted by _IEEE TITS_.
-- *2023.04*: &nbsp;🎉🎉 One paper is accepted by _Geo-spatial Information Science_.
+
 
 
 <span class='anchor' id='academic/teaching-experience'></span>
@@ -70,6 +71,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 </div>
 </div>
 
+- ``IEEE JSTARS`` [Visibility-Aware Disparity Estimation for Aerial Images by Fusing Line Features in Shadow Areas](https://10.1109/JSTARS.2026.3683686), Hongjun Sha, **Wei Yuan***, Siyuan Zou, Ryosuke Shibasaki, Shunichi Koshimura
 - ``GSIS`` [An efficient cost calculation method for disparity estimation of stereo matching considering shadow occlusion](https://doi.org/10.1080/10095020.2025.2487138), Hongjun Sha, **Wei Yuan***, Xunping Wang, Xiuliu Yuan, Shunichi Koshimura
 - ``GSIS`` [Fully automatic DOM generation method based on optical flow field dense image matching](https://doi.org/10.1080/10095020.2022.2159886), **Wei Yuan**, Xiuxiao Yuan, Yang Cai, Ryosuke Shibasaki.
 - ``ISPRS2024`` [The Performance of the Optical Flow Field based Dense Image Matching for UAV Imagery](https://doi.org/10.5194/isprs-annals-X-4-2024-433-2024), **Wei Yuan**, Weihang Ran, Bruno Adriano, Ryosuke Shibasaki, Shunichi Koshimura.<span style="color:red">(Best Young Scientist Award)</span>
