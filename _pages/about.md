@@ -25,6 +25,7 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 I was selected as the 7th _TI-FRIS_ Fellows
 - *2026.04*: &nbsp;🎉🎉 One Paper is accepted by _IEEE TITS_.
 - *2026.04*: &nbsp;🎉🎉 Our Paper is awareded by _2026 ISPRS WEC Kennert Torlegård Travel Grant_! Congrats Zhongyuan!
 - *2026.03*: &nbsp;🎉🎉 One Paper is accepted by _IEEE JSTARS_.
