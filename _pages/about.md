@@ -25,9 +25,10 @@ I welcome highly motivated Master/Ph.D. students interested in deep learning for
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 Our [_RS Educational platform_](https://remote-sensing-platform.pages.dev/studio/) was ranked 6th at the [_CATCON 9_](https://www.isprs.org/catcon/default.aspx)
 - *2026.06*: &nbsp;🎉🎉 I was selected as the 7th [_MEXT Strategic Professional Development Program for Young Researchers-TI-FRIS_](https://www.ti-fris.tohoku.ac.jp/) Fellows
 - *2026.04*: &nbsp;🎉🎉 One Paper is accepted by _IEEE TITS_.
-- *2026.04*: &nbsp;🎉🎉 Our Paper is awareded by _2026 ISPRS WEC Kennert Torlegård Travel Grant_! Congrats Zhongyuan!
+- *2026.04*: &nbsp;🎉🎉 Our Paper is awareded by _2026_ [_ISPRS WEC Kennert Torlegård Travel Grant_](https://www.isprs.org/society/awards/torlegard.aspx)! Congrats Zhongyuan!
 - *2026.03*: &nbsp;🎉🎉 One Paper is accepted by _IEEE JSTARS_.
 - *2026.02*: &nbsp;🎉🎉 One Paper is accepted by _CVPR2026_.
 - *2025.12*: &nbsp;🎉🎉 I will co-organize a technical session "Image Segmentation" at _IGARSS2026_ in Washington next year.
